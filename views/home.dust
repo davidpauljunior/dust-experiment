@@ -1,1 +1,3 @@
-<h1>Hey there, {name}, would you like some angel delight?</h1>
+<h1>Hey there, {name}. Would you like some angel delight?</h1>
+
+{>"components/jobs" jobTitle=name company=company/}

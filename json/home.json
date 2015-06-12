@@ -1,1 +1,15 @@
-{"name": "Dave"}
+{
+    "name": "Dave",
+    "hadJob": true,
+    "jobs": [
+        {
+            "name": "Front End Developer",
+            "company": "Springer",
+            "isCurrentRole": true
+        },
+        {
+            "name": "Front End Developer",
+            "company": "Another Company"
+        }
+    ]
+}

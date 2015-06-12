@@ -1,0 +1,11 @@
+{?hadJob}
+<ul>
+    {#jobs}
+    <li>
+        <h3>{name}</h3>
+        <p>{company}</p>
+        {?isCurrentRole}<p><strong>Current Role</strong></p>{/isCurrentRole}
+    </li>
+    {/jobs}
+</ul>
+{/hadJob}
