@@ -1,0 +1,17 @@
+{
+  "name": "dust",
+  "version": "1.0.0",
+  "description": "Dust experimenting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "dustjs-helpers": "^1.7.1",
+    "dustjs-linkedin": "^2.7.2",
+    "express": "^4.12.4"
+  }
+}
